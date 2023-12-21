@@ -1,0 +1,71 @@
+Input: Atmospheric River Soaks Pacific Northwest With Record-Breaking Rain and Unusually Warm Temperatures
+
+Generated Response:
+Event Type: Weather 
+Sub-event Type: Precipitation 
+Trigger: Atmospheric River
+Argument Roles: Location (Pacific Northwest), Record (Record-Breaking Rain), Temperature (Unusually Warm Temperatures)
+
+
+Input: July 2023 brought record-high temperatures, devastating floods across the U.S.
+
+Generated Response:
+Event Type: Natural Disaster 
+Sub-event Type: Flood 
+Trigger: July 2023
+Argument Roles: Location (U.S.), Impact (record-high temperatures, devastating floods)
+
+
+Input: ‘Powerful’ storm dumps heavy rain over East Coast with 59M under flood alerts
+
+Generated Response:
+Event Type: Weather 
+Sub-Event Type: Storm 
+Trigger: Dumps 
+Argument Roles: Event Source (Powerful Storm), Location (East Coast), Number of People (59M)
+
+
+Input: East Coast prepares for major storm bringing high winds and torrential rain
+
+Generated Response:
+Event Type: Natural Disaster
+Sub-event Type: Storm
+Trigger: Prepares
+Argument Roles: Consequence (high winds and torrential rain)
+
+
+Input: Southern California wildfire prompts evacuation order for thousands
+
+Generated Response:
+Event Type: Displacement
+Sub-event Type: Evacuation
+Trigger: Wildfire
+Argument Roles: Source (Southern California), Destination (unknown), Entity Affected (thousands)
+
+
+Input: India’s toxic smog season shuts down schools, revives ‘odd-even’ vehicle limits
+
+Generated Response:
+Event Type: Environmental Impact 
+Sub-event Type: Pollution
+Trigger: Smog 
+Argument Roles: India, Schools, Vehicle Limits
+
+
+Input: Flash floods foreshadow a threatening reality in New York City
+
+Generated Response:
+Event Type: Natural Disaster
+Sub-event Type: Flood
+Trigger: Flash Floods
+Argument Roles: Threatened Reality (Location: New York City)
+
+
+Input: Death toll hits 11,300 in Libyan city destroyed by floods
+Generated Response:
+Event Type: Natural Disaster
+Sub-event Type: Flooding
+Trigger: Death Toll Hits 11,300
+Argument Roles: Location (Libyan City), Number (11,300)
+
+
